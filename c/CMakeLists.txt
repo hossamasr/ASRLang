@@ -12,4 +12,5 @@ add_executable(c
         memory.c
         debug.h
         debug.c
-        value.h)
+        value.h
+        value.c)
