@@ -13,4 +13,9 @@ add_executable(c
         debug.h
         debug.c
         value.h
-        value.c)
+        value.c
+        vm.h
+        vm.c
+        compiler.c
+        scanner.h
+        scanner.c)
